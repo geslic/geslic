@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geslic" alt="geslic" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/geslic](https://github.com/geslic)
+- 👨‍💻 All of my repositories are available at [https://github.com/geslic?tab=repositories)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/blake-geslicki-developer/](https://www.linkedin.com/in/blake-geslicki-developer/)
 
