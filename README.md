@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Blake Geslicki</h1>
 <h3 align="center">A passionate Back End Developer from California, USA</h3>
 
+![giphy-2034362621](https://github.com/geslic/geslic/assets/109559776/c0bad464-5d27-46fd-a7fa-829560992166) ![giphy-4100323686](https://github.com/geslic/geslic/assets/109559776/242e62bb-af29-4492-8dc3-d596bdece4cb)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geslic&label=Profile%20views&color=0e75b6&style=flat" alt="geslic" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geslic" alt="geslic" /></a> </p>
